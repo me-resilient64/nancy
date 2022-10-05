@@ -1,5 +1,7 @@
 Welcome to the first week of the third module (what!) of YoS!
 
+![alt text](https://github.com/me-resilient64/nancy/blob/main/what.png)
+
 This week we're going to be dealing with Steganography. It is basically hiding a (secret) message inside 
 something (possibly, another message). It may be physical or digital, on paper or image/audio. 
 
