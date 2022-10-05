@@ -43,16 +43,14 @@ https://ctflearn.com/
 ## Challenges
 We have designed 5 challenges:
 
-bruteforcer 
-
-notwordle 
-
-pyjail 
-
-tic-tac-toe 
-
-minesweeper 
+1. Bernhard-Riemann
+2. Weird
+3. pdf-mania
 
 All challenges are present in different folders of this repository. All in all, you would need to solve atleast 2 challenges throughtout the module but we encourage that you solve all of these, for things are more fun that way 😊. Make sure you go through the respective README.md files before jumping into the challenge. Have fun! 😁
 
-Discussions among mentees are encouraged and we request you to use our Discord Server for the same.
+Discussions among mentees are encouraged and we request you to use our [Discord](https://discord.gg/hYthhnGVdN) Server for the same.
+
+<p align="center">
+    Created with ❤️ by <a href="https://github.com/CSecIITB">CSec</a>
+</p>
