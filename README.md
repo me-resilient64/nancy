@@ -17,7 +17,7 @@ to "newer" methods. Attempting to crack passwords by trying as many possibilitie
 Password strength is the likelihood that a password cannot be guessed or discovered, and varies with the attack algorithm used. Cryptologists and computer scientists often refer to the strength or 'hardness' in terms of entropy(https://www.youtube.com/watch?v=3NjQ9b3pgIg and https://en.wikipedia.org/wiki/Password_strength).
 For brute-force attack, some password list is used, standard or maybe self-made. You can construct more powerful custom password list by 'social engineering' and guessing what might the victim put in their password (for example, it might their favourite celebrity).
 
-Also, see https://en.wikipedia.org/wiki/RockYou#Data_breach.
+Also, see https://en.wikipedia.org/wiki/RockYou#Data_breach and https://haveibeenpwned.com/Passwords.
 
 ## Text Guides:
 https://esolangs.org/wiki/Main_Page
